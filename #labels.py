@@ -16,3 +16,7 @@ class label:
 
 tyskie = label("165","Tyskie", "Kompania Piwowarska", "Poland", "Paper", "Tyskie gronie" )
 tyskie.GetLabelData()
+<<<<<<< Updated upstream
+=======
+#2
+>>>>>>> Stashed changes
